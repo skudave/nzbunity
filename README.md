@@ -1,3 +1,5 @@
+**Fork Note: Changed notification from 15s to 3s**
+
 # NZB Unity
 
 Send and control NZB files directly with SABnzbd or NZBGet download clients. Allows monitoring and control of your download queue (pause, resume), optionally intercepts NZB downloads, and allows 1-click downloading from a handful of membership NZB sites. Tested in Chrome and Firefox, but should be compatible with any webextension compatible browser.
