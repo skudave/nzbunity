@@ -91,7 +91,7 @@ if (!window['NZBUnityNewznabDetect']) { // Only run once
         document.body.insertBefore(div, document.body.firstChild);
 
         // Remove notification after 15 seconds
-        setTimeout(() => document.body.removeChild(div), 15000);
+        setTimeout(() => document.body.removeChild(div), 3000);
       }
     }
 
