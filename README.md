@@ -1,5 +1,6 @@
-__**Fork Note: Changed notification from 15s to 3s**__
+**Fork Note: Changed notification from 15s to 3s**
 
+---------------------------------------------------
 
 # NZB Unity
 
